@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 Feel free to connect with me here
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lea-mahler/)]
 
 
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)]
