@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 
 Feel free to connect with me here
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
-[![Linkedin Badge](https://www.linkedin.com/in/lea-mahler/)](https://www.linkedin.com/in/lea-mahler/)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
 [![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://jayraj.co.in/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
