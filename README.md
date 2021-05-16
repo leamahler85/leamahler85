@@ -1,9 +1,5 @@
 ### I'm a Full Stack Web Developer (PHP/Symfony) previously a GIS engineer #geodata
 
-
-<!--
-**leamahler85/leamahler85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently looking for an intership of 4-6 months in web development (Full Stack), remotely or in Toulouse city.
 - :muscle: I'm learning at the Wild Code School 
 
