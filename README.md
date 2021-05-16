@@ -5,7 +5,7 @@
 **leamahler85/leamahler85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently looking for an intership of 4-6 months in web development (Full Stack), remotely or in Toulouse city.
-- I'm learning at the Wild Code School 
+- :muscle: I'm learning at the Wild Code School 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LeaMahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/léa-mahler/)](https://www.linkedin.com/léa-mahler/)
