@@ -8,7 +8,7 @@
 - Blockchain
 - Web Development
 
-[![Linkedin Badge](https://img.shields.io/badge/-leamahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/léa-mahler/)](https://www.linkedin.com/léa-mahler/)
+[![Linkedin Badge](https://img.shields.io/badge/-leamahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
 
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
 
