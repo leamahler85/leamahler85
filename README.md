@@ -10,7 +10,7 @@
 - 
 
 :art: Feel free to contact me here :
-[![Linkedin Badge](https://img.shields.io/badge/-Léa Mahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
+[![Linkedin Badge](https://img.shields.io/badge/-LéaMahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
 
 [![Gmail Badge](https://img.shields.io/badge/leamahler85.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leamahler85@gmail.co.in)](mailto:leamahler85@gmail.co.in)
 
