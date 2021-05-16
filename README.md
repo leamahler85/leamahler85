@@ -1,4 +1,4 @@
-![alt text](./hey.jpg)
+### Hey I am Léa ! 👋
 
 - 🔭 I’m currently looking for an intership of 4-6 months in web development (Full Stack), remotely or in Toulouse city.
 - 👩‍💻 I love to learn about tech and how it impacts our world.
