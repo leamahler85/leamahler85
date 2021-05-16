@@ -8,6 +8,6 @@
 - Some technologies I enjoy working with include PHP/Symfony, JavaScript/HTML/CSS, SQL.
 - :earth_asia: I am also a GIS engineer *#geodata* and know how to code in Python and use QGIS, ArcGIS and manage databases.
 
-:art: Feel free to contact me here :coffee: :
+:art: Feel free to contact me here :coffee: [![Linkedin Badge](https://img.shields.io/badge/-LéaMahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LéaMahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
+
