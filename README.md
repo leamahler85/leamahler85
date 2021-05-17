@@ -1,7 +1,7 @@
 ## Hey I am Léa ! 👋
 
 - 🔭 I’m currently looking for an intership of 4-6 months in web development (Full Stack), remotely or in Toulouse city.
-- :sunny: I love to learn about tech, how it impacts our world, and contribute to the community. I would love to work on challenging projects !
+- :sunny: I love to learn about tech, how it impacts our world, and contribute to the surrounding community. I would love to work on challenging projects !
 
 
 ### ⚡ What you need to know about me
