@@ -5,7 +5,7 @@
 
 
 ### ⚡ What you need to know about me
-- :art: Some technologies I enjoy working with include PHP/Symfony, JavaScript/HTML/CSS, SQL, Adobe Illustrator, Figma UI.
+- :art: Some technologies I enjoy working with include PHP/Symfony, JavaScript/HTML/CSS, SQL.
 - :earth_asia: I am also a GIS engineer *#geodata* and know how to code in Python and use QGIS, ArcGIS and manage databases.
 
 :coffee: Feel free to contact me here [![Linkedin Badge](https://img.shields.io/badge/-LéaMahler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/l%C3%A9a-mahler/)](https://www.linkedin.com/in/l%C3%A9a-mahler/)
