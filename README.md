@@ -1,6 +1,6 @@
 ## Hey I am Léa ! 👋
 
-- 🔭 I’m currently <b>working as a web developer intern (React/Node.js)</b> at Abelio's start-up (https://abelio.io/) in Toulouse city (France), up until the end of January.
+- 🔭 I’m currently <b>working as a web developer intern (React/Node.js)</b> at Abelio's start-up (https://abelio.io/) in Toulouse city (France), up until the end of February.
 - :sunny: I love to learn about tech, how it impacts our world, and contribute to the surrounding community. I would love to work on challenging projects !
 
 
