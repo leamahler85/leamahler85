@@ -1,6 +1,6 @@
 ## Hey I am Léa ! 👋
 
-- 🔭 I’m currently <b>working as a web developer (JavaScript / TypeScript)</b> at CS GROUP in Toulouse city (France) since the beginning of March 2022.
+- 🔭 I’m currently <b>working as a Front-End Developer (JavaScript / TypeScript)</b> at CS GROUP in Toulouse city (France) since the beginning of March 2022.
 - :sunny: I love to learn about tech, how it impacts our world, and contribute to the surrounding community. I would love to work on challenging projects !
 
 
